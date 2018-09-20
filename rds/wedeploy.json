@@ -1,4 +1,4 @@
 {
   "id": "rds",
-  "image": "wedeploy/dxpcloud-rds:0.0.2"
+  "image": "wedeploy/dxpcloud-rds:0.0.3"
 }
