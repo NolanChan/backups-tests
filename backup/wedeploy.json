@@ -1,7 +1,7 @@
 {
   "id": "backup",
-  "image": "wedeploy/dxpcloud-backup:0.0.3",
+  "image": "wedeploy/dxpcloud-backup:0.0.4",
   "volumes": {
-    "data": "/data"
+    "data": "/opt/liferay/data"
   }
 }
