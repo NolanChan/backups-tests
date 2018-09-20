@@ -1,6 +1,6 @@
 {
   "id": "backup",
-  "image": "wedeploy/dxpcloud-backup:0.0.2",
+  "image": "wedeploy/dxpcloud-backup:0.0.3",
   "volumes": {
     "data": "/data"
   }
