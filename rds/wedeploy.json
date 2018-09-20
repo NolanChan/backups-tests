@@ -1,7 +1,4 @@
 {
   "id": "rds",
-  "image": "wedeploy/dxpcloud-rds:0.0.3",
-  "env": {
-    "WEDEPLOY_AWS_REGION": "us-east-1"
-  }
+  "image": "wedeploy/dxpcloud-rds:0.0.3"
 }
